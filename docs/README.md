@@ -18,7 +18,7 @@ socials:
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: 但业务范围不止艺术设计hhhhhhh
-email: 306837749@qq.com ** （想要逼格的话就wy1998623@gmail.com） **
+email: 306837749@qq.com  （想要逼格的话就wy1998623@gmail.com） 
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
