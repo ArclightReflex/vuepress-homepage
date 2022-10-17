@@ -2,30 +2,30 @@
 pageClass: home-page
 # some data for the components
 
-name: 莫哈维艺术工作室
+name: 莫哈维飞地艺术工作室
 profile: /studiologosingle.png
 
 socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/mtobeiyf
-  - title: 微信
-    icon: "/icons/qq.svg"
-    link: https://www.linkedin.com
   - title: qq
-    icon: "/icons/wechat.svg"
+    icon: "/icons/qq.svg"
+    link: tencent://QQInterLive/?Cmd=2&Uin=306837749
+  - title: 微信
+    icon: "/icons/wechat2.svg"
     link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: 但业务范围不止艺术设计hhhhhhh
-email: 306837749@qq.com ~~(想要逼格的话就wy1998623@gmail.com)~~
+email: 306837749@qq.com (想要逼格的话就wy1998623@gmail.com)
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## 关于工作室
 
-我们是一个脱身于 [南京工程学院](https://www.njit.edu.cn/)~~这是个一本！不是大专！不是大专！不是大专！~~的团队, 但实际上就 **三个人**  
+我们是一个脱身于 [南京工程学院](https://www.njit.edu.cn/) ~~这是个一本！不是大专！不是大专！不是大专！~~ 的团队, 但实际上就 **三个人**  
 
 I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
 
