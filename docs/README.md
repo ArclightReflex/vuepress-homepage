@@ -2,50 +2,50 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: 莫哈维艺术工作室
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
+  - title: 微信
+    icon: "/icons/qq.svg"
     link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
+  - title: qq
+    icon: "/icons/wechat.svg"
     link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: 但业务范围不止艺术设计hhhhhhh
+email: 306837749@qq.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
-## About Me
+## 关于工作室
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
+我们是一个脱身于 [南京工程学院](https://en.wikipedia.org/wiki/Hogwarts)的团队, 但实际上就 **三个人**  
 
 I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
 
 
-## News
+## 近况
 
 - [Sept 1991] Attended Hogwarts
 - [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
 
 
-## Education & Experiences
+## 经历
 
 - **Hogwarts School of Witchcraft and Wizardry** <br/>
 Sept 1991 - 1997
 
 
-## Projects
+## 项目
 
 
-[→ Full list](/projects/)
+[完整项目经历](/projects/)
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
