@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: 莫哈维艺术工作室
-profile: /profile.jpg
+profile: /studiologosingle.png
 
 socials:
   - title: github
@@ -36,7 +36,7 @@ I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fe
 - [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
 
 
-## 经历
+## 业务范围
 
 - **Hogwarts School of Witchcraft and Wizardry** <br/>
 Sept 1991 - 1997

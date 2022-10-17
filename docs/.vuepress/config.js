@@ -8,11 +8,11 @@ module.exports = {
   themeConfig: {
     search: false,
     nav: [
-      { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "主页", link: "/" },
+      { text: "关于工作室", link: "/about/" },
+      { text: "项目", link: "/projects/" },
+      { text: "杂七杂八的玩意", link: "/guide/" },
+      { text: "联系我们", link: "https://github.com/mtobeiyf/vuepress-homepage" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
