@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: 莫哈维飞地艺术工作室
-profile: /studiologosingle.png
+profile: /studiologosingle2.png
 
 socials:
   - title: github
