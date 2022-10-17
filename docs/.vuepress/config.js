@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "莫哈维飞地",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",

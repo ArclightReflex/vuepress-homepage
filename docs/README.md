@@ -18,7 +18,7 @@ socials:
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: 但业务范围不止艺术设计hhhhhhh
-email: 306837749@qq.com (想要逼格的话就wy1998623@gmail.com)
+email: 306837749@qq.com ** （想要逼格的话就wy1998623@gmail.com） **
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -47,9 +47,9 @@ Sept 1991 - 1997
 
 [完整项目经历](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/DSC02029.JPG" hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
+  **死亡空间1-艾萨克的工程师护甲**
 
   Harry P., Hermione G., *et al*
   
